@@ -1,0 +1,8 @@
+packages:
+  - packages/*
+
+catalog:
+  '@biomejs/biome': 1.9.4
+
+onlyBuiltDependencies:
+  - '@biomejs/biome'

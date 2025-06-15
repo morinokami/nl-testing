@@ -1,0 +1,12 @@
+{
+	"private": true,
+	"name": "nl-testing",
+	"type": "module",
+	"packageManager": "pnpm@10.12.1",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "catalog:"
+	}
+}
