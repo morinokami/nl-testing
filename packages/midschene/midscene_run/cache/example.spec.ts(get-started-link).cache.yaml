@@ -1,0 +1,7 @@
+midsceneVersion: 0.19.0
+cacheId: example.spec.ts(get-started-link)
+caches:
+  - type: locate
+    prompt: The 'Get started' link
+    xpaths:
+      - /html/body/div[1]/div[2]/header[1]/div[1]/div[1]/a[1]

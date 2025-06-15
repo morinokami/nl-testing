@@ -4,3 +4,9 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+# Midscene
+midscene_run/dump/
+midscene_run/log/
+midscene_run/output/
+midscene_run/report/

@@ -1,0 +1,12 @@
+{
+	"private": true,
+	"name": "midschene",
+	"scripts": {
+		"test": "MIDSCENE_CACHE=1 playwright test"
+	},
+	"devDependencies": {
+		"@midscene/web": "catalog:",
+		"@playwright/test": "catalog:",
+		"@types/node": "catalog:"
+	}
+}
