@@ -1,6 +1,6 @@
 {
 	"private": true,
-	"name": "midschene",
+	"name": "midscene",
 	"scripts": {
 		"test": "MIDSCENE_CACHE=1 playwright test"
 	},

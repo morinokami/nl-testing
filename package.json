@@ -5,7 +5,7 @@
 	"packageManager": "pnpm@10.12.1",
 	"scripts": {
 		"test:playwright": "pnpm --filter playwright test",
-		"test:midschene": "pnpm --filter midschene test"
+		"test:midscene": "pnpm --filter midscene test"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "catalog:"
