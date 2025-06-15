@@ -3,6 +3,8 @@ packages:
 
 catalog:
   '@biomejs/biome': 1.9.4
+  '@playwright/test': 1.53.0
+  '@types/node': 22.15.31
 
 onlyBuiltDependencies:
   - '@biomejs/biome'
